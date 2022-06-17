@@ -16,9 +16,7 @@ export default function CircleSelector(props) {
 
 
 
-
-
 // function setColor(color) {
 //   console.log(`updating color to: ${color}`);
 // }
-// <button onClick={()=> setColor('white')}>circle selected</button>
+// <button onClick={(CircleSelector)=> setColor('white')}>circle selected</button>

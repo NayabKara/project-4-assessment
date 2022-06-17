@@ -8,6 +8,7 @@ export default function Circles(props) {
       <div className="Circles div">2</div>
       <div className="Circles div">3</div>
       <div className="Circles div">4</div>
+      
 
     </div>
   )

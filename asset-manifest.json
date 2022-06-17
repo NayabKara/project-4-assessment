@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NayabKara/project-4-assessment.git/static/css/main.4d5f4c0b.css",
+    "main.js": "/NayabKara/project-4-assessment.git/static/js/main.8bfb0182.js",
+    "static/js/787.72170ad4.chunk.js": "/NayabKara/project-4-assessment.git/static/js/787.72170ad4.chunk.js",
+    "index.html": "/NayabKara/project-4-assessment.git/index.html",
+    "main.4d5f4c0b.css.map": "/NayabKara/project-4-assessment.git/static/css/main.4d5f4c0b.css.map",
+    "main.8bfb0182.js.map": "/NayabKara/project-4-assessment.git/static/js/main.8bfb0182.js.map",
+    "787.72170ad4.chunk.js.map": "/NayabKara/project-4-assessment.git/static/js/787.72170ad4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d5f4c0b.css",
+    "static/js/main.8bfb0182.js"
+  ]
+}
